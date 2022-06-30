@@ -4,8 +4,8 @@
 
 <h3 align="center">
 
-My name is Ademilson Ribeiro, I'm from Brazil, I'm A Computer Scientist.<br/>
-I'm passionate about solving problems and learning.
+My name is Ademilson Ribeiro, I'm from São Paulo - Brazil, graduated in Computer Science.<br/>
+I am passionate about solving problems and learning.
 
 </h3>
 

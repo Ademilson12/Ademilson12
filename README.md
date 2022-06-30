@@ -1,19 +1,60 @@
-# Hi there 👋
+<h1 align="center">
+  Hi there 👋
+</h1>
 
-My name is Ademilson Ribeiro, I'm from Brazil, I'm A Computer Scientist.
+<h3 align="center">
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+My name is Ademilson Ribeiro, I'm from Brazil, I'm A Computer Scientist.<br/>
+I'm passionate about solving problems and learning.
 
+</h3>
 
-#### :earth_americas: "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original". (Albert Einstein)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ademilson12&show_icons=true&include_all_commits=true" alt="Ademilson12" />
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademilson12&&layout=compact)](https://github.com/Ademilson12&/github-readme-stats)
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ademilson-ribeiro-97a316162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ademilson-ribeiro-97a316162" height="30" width="40" /></a>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ademilson12&show_icons=true&count_private=true" width="450" ></a>
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademilson12&&layout=compact" width="450" ></a>
+</p>
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ademilson-ribeiro-97a316162/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href='mailto:ademilson.jr.ribeiro@gmail.com'>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+  
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Computer Science**\
+📆 2014 - 2018\
+📍 **University Nine of July** - São Paulo, Brazil
+</details>
+
+
+
+<details>
+<summary>🚀 Skills</summary>
+
+
+<img src="https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?&logo=.NET&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/(My)SQL-4479A1?&logo=mysql&logoColor=white" />
+
+
+
+</details>
+
+
+
+
